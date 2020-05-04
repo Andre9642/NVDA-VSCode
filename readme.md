@@ -4,6 +4,7 @@
 * License: GNU General Public License, version 2
 * Download [stable version](https://andreabc.net/projects/NVDA_addons/VSCode/latest)
 * Download [development version](https://andreabc.net/projects/NVDA_addons/VSCode/latest?channel=dev)
+* GitHub repository: [andre9642/NVDA-VSCode](https://github.com/Andre9642/nvda-VSCode)
 
 This add-on provides some accessibility enhancements for VSCode, especially in braille.
 
